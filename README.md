@@ -6,8 +6,11 @@ The music player code creates a robust and user-friendly application with a grap
 
 
 TECHNOLOGY USED
+
       * Tkinter
+      
       * Pygame
+      
       * MySQL connector
 
 
